@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/lakshmisairamk/C_leetcode/tree/master/0075-sort-colors) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/lakshmisairamk/C_leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0867-transpose-matrix](https://github.com/lakshmisairamk/C_leetcode/tree/master/0867-transpose-matrix) |
 ## Matrix
 |  |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/lakshmisairamk/C_leetcode/tree/master/0202-happy-number) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/lakshmisairamk/C_leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 ## Math
 |  |
 | ------- |
@@ -58,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/lakshmisairamk/C_leetcode/tree/master/0075-sort-colors) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/lakshmisairamk/C_leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 ## Quicksort
 |  |
 | ------- |
