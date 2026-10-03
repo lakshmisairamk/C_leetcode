@@ -22,11 +22,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/lakshmisairamk/C_leetcode/tree/master/0075-sort-colors) |
 | [0202-happy-number](https://github.com/lakshmisairamk/C_leetcode/tree/master/0202-happy-number) |
 | [0344-reverse-string](https://github.com/lakshmisairamk/C_leetcode/tree/master/0344-reverse-string) |
+| [0647-palindromic-substrings](https://github.com/lakshmisairamk/C_leetcode/tree/master/0647-palindromic-substrings) |
 ## String
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/lakshmisairamk/C_leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0344-reverse-string](https://github.com/lakshmisairamk/C_leetcode/tree/master/0344-reverse-string) |
+| [0647-palindromic-substrings](https://github.com/lakshmisairamk/C_leetcode/tree/master/0647-palindromic-substrings) |
 ## String Matching
 |  |
 | ------- |
@@ -69,4 +71,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/lakshmisairamk/C_leetcode/tree/master/0075-sort-colors) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0647-palindromic-substrings](https://github.com/lakshmisairamk/C_leetcode/tree/master/0647-palindromic-substrings) |
 <!---LeetCode Topics End-->
