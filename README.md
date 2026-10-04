@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/lakshmisairamk/C_leetcode/tree/master/0075-sort-colors) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/lakshmisairamk/C_leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0867-transpose-matrix](https://github.com/lakshmisairamk/C_leetcode/tree/master/0867-transpose-matrix) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/lakshmisairamk/C_leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Matrix
 |  |
 | ------- |
@@ -15,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0867-transpose-matrix](https://github.com/lakshmisairamk/C_leetcode/tree/master/0867-transpose-matrix) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/lakshmisairamk/C_leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Two Pointers
 |  |
 | ------- |
@@ -54,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/lakshmisairamk/C_leetcode/tree/master/0202-happy-number) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/lakshmisairamk/C_leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -75,4 +78,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0647-palindromic-substrings](https://github.com/lakshmisairamk/C_leetcode/tree/master/0647-palindromic-substrings) |
+## Recursion
+|  |
+| ------- |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/lakshmisairamk/C_leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
+## Queue
+|  |
+| ------- |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/lakshmisairamk/C_leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
 <!---LeetCode Topics End-->
