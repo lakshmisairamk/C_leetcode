@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/lakshmisairamk/C_leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0344-reverse-string](https://github.com/lakshmisairamk/C_leetcode/tree/master/0344-reverse-string) |
 | [0647-palindromic-substrings](https://github.com/lakshmisairamk/C_leetcode/tree/master/0647-palindromic-substrings) |
+| [1638-count-substrings-that-differ-by-one-character](https://github.com/lakshmisairamk/C_leetcode/tree/master/1638-count-substrings-that-differ-by-one-character) |
 ## String Matching
 |  |
 | ------- |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0202-happy-number](https://github.com/lakshmisairamk/C_leetcode/tree/master/0202-happy-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/lakshmisairamk/C_leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
+| [1638-count-substrings-that-differ-by-one-character](https://github.com/lakshmisairamk/C_leetcode/tree/master/1638-count-substrings-that-differ-by-one-character) |
 ## Math
 |  |
 | ------- |
@@ -78,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0647-palindromic-substrings](https://github.com/lakshmisairamk/C_leetcode/tree/master/0647-palindromic-substrings) |
+| [1638-count-substrings-that-differ-by-one-character](https://github.com/lakshmisairamk/C_leetcode/tree/master/1638-count-substrings-that-differ-by-one-character) |
 ## Recursion
 |  |
 | ------- |
@@ -86,4 +89,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/lakshmisairamk/C_leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
+## Enumeration
+|  |
+| ------- |
+| [1638-count-substrings-that-differ-by-one-character](https://github.com/lakshmisairamk/C_leetcode/tree/master/1638-count-substrings-that-differ-by-one-character) |
 <!---LeetCode Topics End-->
